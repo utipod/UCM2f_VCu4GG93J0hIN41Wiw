@@ -12,5 +12,38 @@
       <link>https://www.youtube.com/channel/UCM2f_VCu4GG93J0hIN41Wiw</link>
     </image>
     <item/>
+    <item xmlns:itunes="http://www.itunes_ns.com/dtds/podcast-1.0.dtd">
+      <description><![CDATA[machine canal]]></description>
+      <category><![CDATA[People & Blogs]]></category>
+      <title><![CDATA[test]]></title>
+      <guid>Xget44OFxvo</guid>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCM2f_VCu4GG93J0hIN41Wiw</source>
+      <author>dalee jrun</author>
+      <link>Xget44OFxvo</link>
+      <itunes:image>https://i.ytimg.com/vi_webp/Xget44OFxvo/maxresdefault.webp</itunes:image>
+    </item>
+    <item xmlns:itunes="http://www.itunes_ns.com/dtds/podcast-1.0.dtd">
+      <description><![CDATA[]]></description>
+      <category><![CDATA[People & Blogs]]></category>
+      <title><![CDATA[VID_20170924_122139.mp4]]></title>
+      <guid>f3bGlFvBBvk</guid>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCM2f_VCu4GG93J0hIN41Wiw</source>
+      <author>dalee jrun</author>
+      <link>f3bGlFvBBvk</link>
+      <itunes:image>https://i.ytimg.com/vi_webp/f3bGlFvBBvk/maxresdefault.webp</itunes:image>
+    </item>
+    <item xmlns:itunes="http://www.itunes_ns.com/dtds/podcast-1.0.dtd">
+      <description><![CDATA[KZ Bluetooth 5.0 Earphone Aptx HD]]></description>
+      <category><![CDATA[People & Blogs]]></category>
+      <title><![CDATA[CPinZSNZS10ProZ]]></title>
+      <guid>hFUAKd9Pcgg</guid>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCM2f_VCu4GG93J0hIN41Wiw</source>
+      <author>dalee jrun</author>
+      <link>hFUAKd9Pcgg</link>
+      <itunes:image>https://i.ytimg.com/vi_webp/hFUAKd9Pcgg/maxresdefault.webp</itunes:image>
+    </item>
   </channel>
 </rss>
